@@ -1,6 +1,7 @@
 # YouShop E-commerce Platform
 
 > E-commerce platform built with the MERN stack.
+> [live version: Here](https://youshop.onrender.com/)
 
 ## Features
 
