@@ -18,7 +18,7 @@ const ProductCarousel = () => {
     slidesToShow: 2,
     slidesToScroll: 2,
     initialSlide: 0,
-    autoplay:false,
+    autoplay:true,
     responsive: [
       {
         breakpoint: 1024,
